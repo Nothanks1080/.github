@@ -1,3 +1,5 @@
+#platforms/core-configuration/kotlin-dsl/src/main/kotlin/org/gradle/kotlin/dsl/accessors/AccessorsClassPath.kt
+<a rel="me" href="https://indieweb.social/@Nothanks4431080">Mastodon</a>
 # Gradle's .github Project
 
 This project sets the default policies for all repositories.
